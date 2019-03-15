@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseMVP</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_vista_principal">VistaPrincipal</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="title_activity_vista_registro">VistaRegistro</string>
+    <string name="nameComplete">Nombre completo</string>
+    <string name="email">Email</string>
+    <string name="register">Registrar Usuario</string>
+    <string name="Confirmarpass">Confimar Password</string>
+    <string name="añadirProc">Añadir Producto</string>
+    <string name="nombreProdu">Nombre Producto</string>
+    <string name="precioProdu">Precio Producto</string>
+    <string name="title_activity_vista_producto_detalle">VistaProductoDetalle</string>
+    <string name="cargarImg">Cargar Imagen</string>
+</resources>
